@@ -1,0 +1,16 @@
+body{
+    background-color:orange;
+}
+#list{
+    color:blue;
+}
+#camera{
+    border:3px black ridge;
+    width:350px;
+    height:300px;
+}
+#heading{
+    background-color:white;
+    width:80%;
+    font-size:22px;
+}
